@@ -37,6 +37,17 @@ body{
 			background-color: #ADFF2F;
         }
 		
+		h6 {
+            font-size: 20px; /* Tamanho da fonte */
+            color: #000; /* Cor do texto */
+            text-transform: uppercase; /* Transforma o texto em maiúsculas */
+            margin-bottom: 1px; /* Espaçamento abaixo do título */
+			text-align: left;
+			font-weight: bold;
+			font-family: 'NomeDaFonte', sans-serif; 
+			background-color: #ADFF2F;
+        }
+		
 		p{
 			text-align: left
 		}
